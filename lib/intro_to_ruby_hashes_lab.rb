@@ -3,8 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {wolf: "Fang"
-  sheep: "Dom"}
+  {wolf: "Fang" , sheep: "Dom"}
 end
 
 def pioneer
